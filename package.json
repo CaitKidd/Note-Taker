@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "caitkidd <caitlyn.kidd92@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaitKidd/Note-Taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/CaitKidd/Note-Taker.git/issues"
+  },
+  "homepage": "https://github.com/CaitKidd/Note-Taker.git#readme"
+}
